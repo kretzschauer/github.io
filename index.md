@@ -6,3 +6,5 @@ Nachdem du den Titel hinzugefügt hast, musst du die index.md Datei speichern. F
 *  attraktiv
 *  preiswert
 *  genial
+Jetzt kommt noch ein Zitat:
+> Wer hat, der hat.
