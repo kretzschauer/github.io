@@ -8,3 +8,7 @@ Nachdem du den Titel hinzugefügt hast, musst du die index.md Datei speichern. F
 *  genial
 Jetzt kommt noch ein Zitat:
 > Wer hat, der hat.
+![pingu](http://informatik.archenhold.de/bk14alle/bilder/pinguin.gif)
+
+
+<img src="http://informatik.archenhold.de/bk14alle/bilder/pinguin.gif"/>
